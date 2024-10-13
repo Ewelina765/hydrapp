@@ -18,4 +18,4 @@ This is a simple application that helps you track the number of glasses of water
 2. At midnight, the counter automatically resets to 0, so you can track your daily intake without manual resetting.
 3. The app keeps a simple log of your water consumption for the day.
 
-![app] ("/hydrapp/app.png")
+![Zrzut ekranu 2024-10-13 o 16 51 58](https://github.com/user-attachments/assets/49ae7b00-50b2-4ab2-ad13-72aaebfdcc21)
